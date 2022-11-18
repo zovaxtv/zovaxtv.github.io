@@ -23,3 +23,5 @@ body{
 .download-btn:hover {
     background-color: RoyalBlue;
   }
+
+  h4 {text-align: center;}
